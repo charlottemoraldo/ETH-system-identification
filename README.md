@@ -1,4 +1,5 @@
 # ETH-system-identification
+(Sept 2018 - Dec 2018)
 
 Midterm and final projects realized in the System Identification course at ETH Zürich, given by Prof. Roy Smith.
 
